@@ -1,0 +1,6 @@
+homepage: "https://datasupplied.com/"
+documentation: "https://datasupplied.com/google-tag-manager/ga4-item-parameters-template/"
+versions:
+  # Latest version
+  - sha: d430b23182e8668ddf4f608387c8d73814aee9f9
+    changeNotes: Initial release.
